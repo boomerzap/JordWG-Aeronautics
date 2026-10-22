@@ -13,7 +13,12 @@
     { "source": "url", "url": "https://drive.google.com/file/d/1BZQ33YSrBe9L04zihNrFD00Mi8Hxenew/view?usp=sharing", "filename": "aeroclaims-0.9.4.jar" },
 	{ "source": "url", "url": "https://drive.google.com/file/d/1MQH5--wCGohpZ2ZN-BjRA7TJpNvUQmv7/view?usp=sharing", "filename": "aerocopycats-1.1.1.jar" },
 	{ "source": "modrinth", "project": "create-aeroworks", "version_id": "1.5.0+mc1.21.1" },
-    { "source": "modrinth", "project": "sodium" },
+	{ "source": "url", "url": "https://drive.google.com/file/d/1CJwF3tFa2ND6Y2rKmsEtw_CS14w8n0_2/view?usp=sharing", "filename": "alltheleaks-1.1.13+1.21.1-neoforge.jar" },
+	{ "source": "modrinth", "project": "amendments", "version_id": "83ntBcVk" },
+	{ "source": "url", "url": "https://drive.google.com/file/d/1QsAwLbaSlC5a7FYeKIQXxIUKVYnP1Scq/view?usp=sharing", "filename": "Aoc_Core_1.21_v2.jar" },   
+	{ "source": "modrinth", "project": "appleskin", "version_id": "3.0.0+mc1.21" },
+	{ "source": "modrinth", "project": "architectury", "version_id": "13.0.11+neoforge" },	
+	{ "source": "modrinth", "project": "sodium" },
     { "source": "modrinth", "project": "lithium" }
   ],
   "configs": []
