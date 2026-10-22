@@ -17,7 +17,7 @@
 	{ "source": "modrinth", "project": "amendments", "version_id": "83ntBcVk" },
 	{ "source": "url", "url": "https://drive.google.com/file/d/1QsAwLbaSlC5a7FYeKIQXxIUKVYnP1Scq/view?usp=sharing", "filename": "Aoc_Core_1.21_v2.jar" },   
 	{ "source": "modrinth", "project": "appleskin", "version_id": "3.0.0+mc1.21" },
-	{ "source": "modrinth", "project": "architectury", "version_id": "13.0.11+neoforge" },,
+	{ "source": "modrinth", "project": "architectury", "version_id": "13.0.11+neoforge" },
 	{ "source": "modrinth", "project": "amendments", "version_id": "1.21-2.1.11-neoforge" },
 	{ "source": "modrinth", "project": "azimuth", "version_id": "1.4.10" },
 	{ "source": "modrinth", "project": "backpacked", "version_id": "neoforge+1.21.1+3.0.5" },
@@ -239,7 +239,6 @@
 	{ "source": "modrinth", "project": "yet_another_config_lib_v3", "version_id": "3.8.2+1.21.1+neoforge" },
 	{ "source": "modrinth", "project": "YungsApi", "version_id": "1.21.1+NeoForge+5.1.9" },
 	{ "source": "modrinth", "project": "Zeta", "version_id": "1.1+40" },
-
   ],
   "configs": []
 }
