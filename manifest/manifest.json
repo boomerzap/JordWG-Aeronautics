@@ -238,7 +238,7 @@
 	{ "source": "modrinth", "project": "xaeroworldmap", "version_id": "neoforge+1.21.1+1.47.0" },
 	{ "source": "modrinth", "project": "yet_another_config_lib_v3", "version_id": "3.8.2+1.21.1+neoforge" },
 	{ "source": "modrinth", "project": "YungsApi", "version_id": "1.21.1+NeoForge+5.1.9" },
-	{ "source": "modrinth", "project": "Zeta", "version_id": "1.1+40" },
+	{ "source": "modrinth", "project": "Zeta", "version_id": "1.1+40" }
   ],
   "configs": []
 }
