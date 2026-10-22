@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Installer for JordWG: Aeronautics.",
   "minecraft": "1.21.1",
-  "loader": { "type": "fabric", "version": "latest" },
+  "loader": { "type": "neoforge", "version": "21.1.256" },
   "profile": {
     "id": "jordwg-aeronautics",
     "name": "JordWG: Aeronautics",
-    "ram_gb": 4
+    "ram_gb": 8
   },
   "mods": [
     { "source": "modrinth", "project": "fabric-api" },
