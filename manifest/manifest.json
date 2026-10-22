@@ -10,7 +10,7 @@
     "ram_gb": 8
   },
   "mods": [
-    { "source": "modrinth", "project": "fabric-api" },
+    { "source": "url", "url": "https://drive.google.com/file/d/1BZQ33YSrBe9L04zihNrFD00Mi8Hxenew/view?usp=sharing", "filename": "aeroclaims-0.9.4.jar" },
     { "source": "modrinth", "project": "sodium" },
     { "source": "modrinth", "project": "lithium" }
   ],
