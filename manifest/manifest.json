@@ -203,7 +203,6 @@
 	{ "source": "modrinth", "project": "lambdynamiclights", "version_id": "4.8.11+1.21.1" },
 	{ "source": "modrinth", "project": "lamb-lanterns", "version_id": "1.2.0" },
 	{ "source": "url", "url": "https://drive.google.com/file/d/1X3FoCT_fLdvOncLJo5QafLARFLvXN4s7/view?usp=sharing", "filename": "leaky-1.21-3.4.jar" },   	
-	{ "source": "modrinth", "project": "leaves-be-gone", "version_id": "v21.1.1-1.21.1-NeoForge" },   	
 	{ "source": "modrinth", "project": "lithium", "version_id": "mc1.21.1-0.15.4-neoforge" },
 	{ "source": "modrinth", "project": "lithostitched", "version_id": "1.8.1-neoforge-21.1" },
 	{ "source": "modrinth", "project": "lmft", "version_id": "poGMd0AE" },
